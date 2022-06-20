@@ -7,7 +7,7 @@ export const FooterStyled = styled.footer`
 
   a {
     text-decoration: none;
-    color: hsla(94, 35%, 40%, 1);
+    color: aliceblue;
     font-weight: 4s00;
   }
 `;

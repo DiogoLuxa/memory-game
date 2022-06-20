@@ -7,11 +7,10 @@ const Footer = () => {
   return (
     <FooterStyled>
       <p>
-        Copyright © 2022{' '}
+        Desenvolvido por{' '}
         <a href="https://www.linkedin.com/in/diogo-tadeu/" target="_blank">
-          Diogo Luxa
+          Diogo Luxa ☠️
         </a>
-        . Todos os direitos reservados.
       </p>
       <p>Dedicado ao meu filho Lorenzo ❤️</p>
     </FooterStyled>
